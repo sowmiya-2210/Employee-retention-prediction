@@ -122,7 +122,3 @@ Partner with **TIGI HR** to recruit from a pool of exceptional talent and build 
 - Expand analysis to other roles and industries.  
 - Integrate additional external factors like economic indicators.  
 - Test other advanced machine learning algorithms like deep learning models.  
-
---- 
-
-You can copy-paste the above as-is into your project documentation. Let me know if there are any specific adjustments you’d like!
