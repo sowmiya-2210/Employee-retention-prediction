@@ -97,7 +97,6 @@ Cultivate an inclusive and supportive workplace that prioritizes open communicat
 ✅ **Retain Your Exceptional Talent** ✨ *Promote an Engaging Culture*  
 Through robust professional development, meaningful recognition, and a nurturing work environment, organizations can retain top talent and drive sustained success.  
 
-Partner with **TIGI HR** to recruit from a pool of exceptional talent and build a thriving team. 🌟  
 
 ## How to Run  
 1. Clone this repository.  
