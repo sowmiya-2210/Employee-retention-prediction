@@ -82,19 +82,19 @@ This project leverages machine learning to predict employee retention and job ch
 
 Discover effective tactics to retain top talent and nurture a culture of loyalty and engagement within your company.  
 
-✅ **Continuous Professional Development** 📚 *Invest in Growth*  
+✅ **Continuous Professional Development**  *Invest in Growth*  
 Empower employees with continual learning opportunities and skill enhancement through tailored training, workshops, and mentorship programs.  
 **Benefits**: Enhanced job satisfaction, heightened employee engagement, and improved retention rates.  
 
-✅ **Recognition & Rewards** 🏆 *Celebrate Achievements*  
+✅ **Recognition & Rewards** *Celebrate Achievements*  
 Acknowledge and reward employees for their dedication, accomplishments, and contributions using initiatives like "Employee of the Month" and peer-to-peer recognition platforms.  
 **Benefits**: Elevated morale, increased motivation, and strengthened team cohesion.  
 
-✅ **Positive Work Environment** 🌈 *Foster Collaboration and Well-being*  
+✅ **Positive Work Environment**  *Foster Collaboration and Well-being*  
 Cultivate an inclusive and supportive workplace that prioritizes open communication, teamwork, and a healthy work-life balance.  
 **Benefits**: Elevated employee satisfaction, heightened productivity, and reduced turnover.  
 
-✅ **Retain Your Exceptional Talent** ✨ *Promote an Engaging Culture*  
+✅ **Retain Your Exceptional Talent** *Promote an Engaging Culture*  
 Through robust professional development, meaningful recognition, and a nurturing work environment, organizations can retain top talent and drive sustained success.  
 
 
